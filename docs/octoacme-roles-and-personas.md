@@ -75,6 +75,128 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 
 ---
 
+## QA Engineer
+
+### Role Summary
+Ensures quality, conducts testing, and validates acceptance criteria across features and releases. QA Engineers collaborate with developers and product managers to maintain high quality standards and reduce defect escape.
+
+### Responsibilities
+- Design and execute comprehensive test plans covering functional, integration, and regression testing
+- Ensure features meet acceptance criteria before marking done
+- Coordinate manual and automated testing efforts
+- Contribute to release readiness assessments and sign-off
+- Report and triage defects with clear reproduction steps
+- Collaborate on test automation strategy and CI pipeline improvements
+
+### Goals
+- Maintain high code and feature quality
+- Reduce time to identify and fix defects
+- Enable fast, confident releases to production
+
+### Typical Communication
+- Daily standups and sprint planning meetings
+- QA status updates during weekly delivery syncs
+- Defect reports and test result summaries
+- Release sign-off coordination
+
+### Collaborates With
+- **Developers** — test coverage, defect resolution, and CI pipeline improvements
+- **Product Managers** — acceptance criteria definition and feature validation
+- **Project Managers** — QA status reporting, risk identification, and release readiness
+
+---
+
+## UX Designer
+
+### Role Summary
+Leads user research, defines user experience strategies, and collaborates with product and engineering to deliver intuitive, usable solutions.
+
+### Responsibilities
+- Conduct user research and define user personas and journeys
+- Create wireframes, prototypes, and design specifications
+- Lead design reviews and gather feedback from team and stakeholders
+- Validate usability through testing and iteration
+- Ensure accessibility and design consistency standards are met
+- Handoff designs to developers with clear specifications and assets
+
+### Goals
+- Deliver intuitive, user-centered experiences
+- Reduce usability issues and support burden
+- Accelerate user adoption and satisfaction
+
+### Typical Communication
+- Design kickoff meetings and review sessions
+- Weekly syncs with Product Manager and engineering leads
+- Design specifications and component documentation
+- Accessibility and usability assessment reports
+
+### Collaborates With
+- **Product Managers** — requirements, user needs, and feature scope
+- **Developers** — design handoff, implementation reviews, and asset delivery
+- **Project Managers** — timeline alignment and milestone planning
+
+---
+
+## Business Analyst
+
+### Role Summary
+Bridges business requirements and technical delivery by translating stakeholder needs into clear, testable acceptance criteria. Business Analysts ensure projects stay aligned with business goals and regulatory requirements.
+
+### Responsibilities
+- Clarify and document business requirements and acceptance criteria
+- Conduct requirements gathering sessions with stakeholders
+- Translate business needs into user stories and technical specifications
+- Identify and document business rules and compliance requirements
+- Support test case development and UAT planning
+- Facilitate communication between business and technical teams
+
+### Goals
+- Ensure solutions meet business objectives
+- Reduce rework due to misaligned requirements
+- Enable smooth stakeholder sign-off and UAT
+
+### Typical Communication
+- Requirements gathering sessions and documentation
+- User story and acceptance criteria reviews
+- Business rule definitions and process documentation
+- UAT coordination and sign-off
+
+### Collaborates With
+- **Product Managers** — requirements alignment and backlog refinement
+- **Developers** — requirement clarifications and technical feasibility
+- **Stakeholders** — validation of business needs and approval of acceptance criteria
+
+---
+
+## Stakeholder
+
+### Role Summary
+Provides strategic direction, validates alignment with business goals, and grants approvals for key milestones. Stakeholders are invested in project outcomes and serve as liaisons to broader organizational needs.
+
+### Responsibilities
+- Provide feedback on project direction and scope
+- Validate that solutions align with business and user needs
+- Approve key milestones and releases
+- Participate in project initiation and planning gate reviews
+- Communicate project status and outcomes to broader organization
+- Escalate cross-functional blockers and resource constraints
+
+### Goals
+- Ensure projects deliver business value
+- Maintain alignment across organization
+- Enable rapid decision-making at leadership level
+
+### Typical Communication
+- Monthly stakeholder briefings and status updates
+- Gate review meetings (initiation, planning, release)
+- Decision logs and approval sign-offs
+- Escalation notifications for critical issues
+
+### Collaborates With
+- **All roles** — overall alignment, feedback, and communication throughout the project lifecycle
+
+---
+
 ## How these personas are used in the exercise
 - Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.

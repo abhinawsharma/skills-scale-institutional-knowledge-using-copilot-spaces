@@ -78,7 +78,7 @@ Project Managers coordinate delivery activities, manage schedules, risks, and co
 ## QA Engineer
 
 ### Role Summary
-Ensures quality, conducts testing, and validates acceptance criteria across features and releases. QA Engineers collaborate with developers and product managers to maintain high quality standards and reduce defect escape.
+QA Engineers ensure quality, conduct testing, and validate acceptance criteria across features and releases. QA Engineers collaborate with developers and product managers to maintain high quality standards and reduce defect escape.
 
 ### Responsibilities
 - Design and execute comprehensive test plans covering functional, integration, and regression testing
@@ -99,17 +99,12 @@ Ensures quality, conducts testing, and validates acceptance criteria across feat
 - Defect reports and test result summaries
 - Release sign-off coordination
 
-### Collaborates With
-- **Developers** — test coverage, defect resolution, and CI pipeline improvements
-- **Product Managers** — acceptance criteria definition and feature validation
-- **Project Managers** — QA status reporting, risk identification, and release readiness
-
 ---
 
 ## UX Designer
 
 ### Role Summary
-Leads user research, defines user experience strategies, and collaborates with product and engineering to deliver intuitive, usable solutions.
+UX Designers lead user research, define user experience strategies, and collaborate with product and engineering to deliver intuitive, usable solutions.
 
 ### Responsibilities
 - Conduct user research and define user personas and journeys
@@ -130,17 +125,12 @@ Leads user research, defines user experience strategies, and collaborates with p
 - Design specifications and component documentation
 - Accessibility and usability assessment reports
 
-### Collaborates With
-- **Product Managers** — requirements, user needs, and feature scope
-- **Developers** — design handoff, implementation reviews, and asset delivery
-- **Project Managers** — timeline alignment and milestone planning
-
 ---
 
 ## Business Analyst
 
 ### Role Summary
-Bridges business requirements and technical delivery by translating stakeholder needs into clear, testable acceptance criteria. Business Analysts ensure projects stay aligned with business goals and regulatory requirements.
+Business Analysts bridge business requirements and technical delivery by translating stakeholder needs into clear, testable acceptance criteria. Business Analysts ensure projects stay aligned with business goals and regulatory requirements.
 
 ### Responsibilities
 - Clarify and document business requirements and acceptance criteria
@@ -161,17 +151,12 @@ Bridges business requirements and technical delivery by translating stakeholder 
 - Business rule definitions and process documentation
 - UAT coordination and sign-off
 
-### Collaborates With
-- **Product Managers** — requirements alignment and backlog refinement
-- **Developers** — requirement clarifications and technical feasibility
-- **Stakeholders** — validation of business needs and approval of acceptance criteria
-
 ---
 
 ## Stakeholder
 
 ### Role Summary
-Provides strategic direction, validates alignment with business goals, and grants approvals for key milestones. Stakeholders are invested in project outcomes and serve as liaisons to broader organizational needs.
+Stakeholders provide strategic direction, validate alignment with business goals, and grant approvals for key milestones. Stakeholders are invested in project outcomes and serve as liaisons to broader organizational needs.
 
 ### Responsibilities
 - Provide feedback on project direction and scope
@@ -191,9 +176,6 @@ Provides strategic direction, validates alignment with business goals, and grant
 - Gate review meetings (initiation, planning, release)
 - Decision logs and approval sign-offs
 - Escalation notifications for critical issues
-
-### Collaborates With
-- **All roles** — overall alignment, feedback, and communication throughout the project lifecycle
 
 ---
 
